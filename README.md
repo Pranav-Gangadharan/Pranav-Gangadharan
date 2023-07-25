@@ -1,6 +1,4 @@
 
-![A Passionate Full stack web developer from India](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
-
 # Hi there! 👋, I'm Pranav Gangadharan
 
 #### A passionate full-stack web developer based in Coimbatore. Welcome to my GitHub profile!
