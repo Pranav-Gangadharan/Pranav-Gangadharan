@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi there! 👋, I'm Pranav Gangadharan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-gangadharan&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-gangadharan" /> </p>
-<h3 align="center">A passionate full-stack web developer based in Coimbatore. Welcome to my GitHub profile!</h3>
+<h3 align="center">A passionate full-stack web developer based in Coimbatore. Welcome to my GitHub profile!👨‍💻</h3>
 <br>
 <img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -25,22 +25,22 @@
 </div>
 <br>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 😅 Fun Fact
+#### Debugging is like being the detective in a crime movie where you are also the murderer.
 <br>
 
 ## 📱 Get in Touch
 
-💬 I'm always excited to connect with fellow developers and tech enthusiasts. If you have any questions, want to collaborate, or just chat about tech, feel free to reach out to me:
+#### 💬 I'm always excited to connect with fellow developers and tech enthusiasts. If you have any questions, want to collaborate, or just chat about tech, feel free to reach out to me:
 
-Email: pranavgangadharan@yahoo.com
+#### Email: pranavgangadharan@yahoo.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavgangadharan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pranavbuddy52) 
 <br>
 
-## ⚒ Let's Build Something Awesome Together!
+---
 
-Thank you for visiting my GitHub profile. Let's connect, code, and create amazing projects together! 🚀✨
+### Thank you for visiting my GitHub profile. Let's connect, code, and create amazing projects together! 🚀✨
 
 
 
