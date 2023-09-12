@@ -4,6 +4,8 @@
 <h1 align="center"> Hi there! 👋, I'm Pranav Gangadharan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-gangadharan&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-gangadharan" /> </p>
 <h3 align="center">A passionate full-stack web developer based in Coimbatore. Welcome to my GitHub profile!👨‍💻</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav-gangadharan" alt="pranav-gangadharan" /></a> </p>
 <br>
 <img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -18,10 +20,11 @@
 <br>
 
 ## 📊 GitHub Stats:
+
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Gangadharan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Gangadharan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Gangadharan&theme=highcontrast&hide_border=false"><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-gangadharan&show_icons=true&locale=en&layout=compact" alt="pranav-gangadharan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-gangadharan&show_icons=true&locale=en" alt="pranav-gangadharan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-gangadharan" alt="pranav-gangadharan" /></p>
 </div>
 <br>
 
