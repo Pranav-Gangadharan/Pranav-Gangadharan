@@ -19,9 +19,11 @@
 </div>
 <br>
 
-## 📊 GitHub Stats:
+## ☕️ Daily.Dev
 
 <a href="https://app.daily.dev/pranavgs"><img src="https://api.daily.dev/devcards/v2/wUpeGuAbyjkKKnMplYN0k.png?r=p2b&type=wide" width="652" alt="Pranav Gangadharan's Dev Card"/></a>
+
+## 📊 GitHub Stats:
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-gangadharan&show_icons=true&locale=en&layout=compact" alt="pranav-gangadharan" /></p>
