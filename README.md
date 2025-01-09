@@ -21,6 +21,8 @@
 
 ## 📊 GitHub Stats:
 
+<a href="https://app.daily.dev/pranavgs"><img src="https://api.daily.dev/devcards/v2/wUpeGuAbyjkKKnMplYN0k.png?r=p2b&type=wide" width="652" alt="Pranav Gangadharan's Dev Card"/></a>
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-gangadharan&show_icons=true&locale=en&layout=compact" alt="pranav-gangadharan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-gangadharan&show_icons=true&locale=en" alt="pranav-gangadharan" /></p>
