@@ -36,7 +36,7 @@
 
 #### 💬 I'm always excited to connect with fellow developers and tech enthusiasts. If you have any questions, want to collaborate, or just chat about tech, feel free to reach out to me:
 
-#### Email: pranavgangadharan@yahoo.com
+#### Email: pranavg2525@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavgangadharan)
 <br>
